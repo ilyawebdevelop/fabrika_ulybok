@@ -1,0 +1,27 @@
+Отправил 2к 06.09.2024
+
+
+80000 бюджет
+10000 мне заплатили
+
+
+
+Главная — https://pauchoook.github.io/smile/dist/ 
+404 — https://pauchoook.github.io/smile/dist/404.html
+О нас — https://pauchoook.github.io/smile/dist/about.html
+Страница категории — https://pauchoook.github.io/smile/dist/category.html
+Контакты — https://pauchoook.github.io/smile/dist/contacts.html
+Страница доктора — https://pauchoook.github.io/smile/dist/doctor.html
+Информация — https://pauchoook.github.io/smile/dist/info.html
+Вакансии — https://pauchoook.github.io/smile/dist/jobs.html
+Политика — https://pauchoook.github.io/smile/dist/policy.html
+Цены — https://pauchoook.github.io/smile/dist/price.html
+Отзывы — https://pauchoook.github.io/smile/dist/reviews.html
+Страница услуги — https://pauchoook.github.io/smile/dist/service.html
+Все услуги — https://pauchoook.github.io/smile/dist/services.html
+Страница акции — https://pauchoook.github.io/smile/dist/stock.html
+Все акции — https://pauchoook.github.io/smile/dist/stocks.html
+Налоговый вычет — https://pauchoook.github.io/smile/dist/tax.html
+Команда — https://pauchoook.github.io/smile/dist/team.html
+
+
