@@ -6,22 +6,22 @@
 
 
 
-Главная — https://pauchoook.github.io/smile/dist/ 
-404 — https://pauchoook.github.io/smile/dist/404.html
-О нас — https://pauchoook.github.io/smile/dist/about.html
-Страница категории — https://pauchoook.github.io/smile/dist/category.html
-Контакты — https://pauchoook.github.io/smile/dist/contacts.html
-Страница доктора — https://pauchoook.github.io/smile/dist/doctor.html
-Информация — https://pauchoook.github.io/smile/dist/info.html
-Вакансии — https://pauchoook.github.io/smile/dist/jobs.html
-Политика — https://pauchoook.github.io/smile/dist/policy.html
-Цены — https://pauchoook.github.io/smile/dist/price.html
-Отзывы — https://pauchoook.github.io/smile/dist/reviews.html
-Страница услуги — https://pauchoook.github.io/smile/dist/service.html
-Все услуги — https://pauchoook.github.io/smile/dist/services.html
-Страница акции — https://pauchoook.github.io/smile/dist/stock.html
-Все акции — https://pauchoook.github.io/smile/dist/stocks.html
-Налоговый вычет — https://pauchoook.github.io/smile/dist/tax.html
-Команда — https://pauchoook.github.io/smile/dist/team.html
+Главная — https://ilyawebdevelop.github.io/fabrika_ulybok/ 
+404 — https://ilyawebdevelop.github.io/fabrika_ulybok/404.html
+О нас — https://ilyawebdevelop.github.io/fabrika_ulybok/about.html
+Страница категории — https://ilyawebdevelop.github.io/fabrika_ulybok/category.html
+Контакты — https://ilyawebdevelop.github.io/fabrika_ulybok/contacts.html
+Страница доктора — https://ilyawebdevelop.github.io/fabrika_ulybok/doctor.html
+Информация — https://ilyawebdevelop.github.io/fabrika_ulybok/info.html
+Вакансии — https://ilyawebdevelop.github.io/fabrika_ulybok/jobs.html
+Политика — https://ilyawebdevelop.github.io/fabrika_ulybok/policy.html
+Цены — https://ilyawebdevelop.github.io/fabrika_ulybok/price.html
+Отзывы — https://ilyawebdevelop.github.io/fabrika_ulybok/reviews.html
+Страница услуги — https://ilyawebdevelop.github.io/fabrika_ulybok/service.html
+Все услуги — https://ilyawebdevelop.github.io/fabrika_ulybok/services.html
+Страница акции — https://ilyawebdevelop.github.io/fabrika_ulybok/stock.html
+Все акции — https://ilyawebdevelop.github.io/fabrika_ulybok/stocks.html
+Налоговый вычет — https://ilyawebdevelop.github.io/fabrika_ulybok/tax.html
+Команда — https://ilyawebdevelop.github.io/fabrika_ulybok/team.html
 
 
