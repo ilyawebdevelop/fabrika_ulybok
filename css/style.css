@@ -4544,7 +4544,7 @@ body {
   width: 2035px;
   height: 588px;
   right: 0;
-  bottom: -145px;
+  bottom: -35px;
   -webkit-transform: rotate(-40deg);
   transform: rotate(-40deg);
   background: url(../img/decor/decor.svg) 0 0/cover no-repeat;
@@ -5507,6 +5507,9 @@ body {
 .about-service {
   padding: 90px 0 60px 0
 }
+.about-service--decor {
+  z-index: 5
+}
 .about-service--decor::before {
   position: absolute;
   content: "";
@@ -6013,7 +6016,10 @@ body {
   height: 270px;
   background: url(../img/decor/decor.svg) 0 0/100% auto no-repeat;
   right: 0;
-  top: 45px
+  -webkit-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: -75px;
+  top: 25px
 }
 .team::after {
   width: 2015px;
@@ -6095,18 +6101,6 @@ body {
 }
 .manipulations {
   padding-bottom: 90px
-}
-.manipulations::before {
-  position: absolute;
-  content: "";
-  width: 2605px;
-  height: 740px;
-  right: 0;
-  bottom: -460px;
-  -webkit-transform: rotate(135deg) scale(1,-1);
-  transform: rotate(135deg) scale(1,-1);
-  background: url(../img/decor/decor.svg) 0 0/100% 100% no-repeat;
-  z-index: -1
 }
 .manipulations__title {
   margin-bottom: 30px
@@ -9370,11 +9364,6 @@ body {
   }
   .manipulations {
     padding-bottom: 40px
-  }
-  .manipulations::before {
-    width: 1230px;
-    height: 300px;
-    bottom: -400px
   }
   .manipulations__item {
     flex-wrap: wrap;
